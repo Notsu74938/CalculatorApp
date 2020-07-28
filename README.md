@@ -1,14 +1,18 @@
 # CalculatorApp
 
-iPhoneの初期アプリ電卓を再現
+iPhoneの初期アプリ「電卓」をSwiftで再現
 
 # DEMO
 
-
+<img width="378" alt="CalcPhoto" src="https://user-images.githubusercontent.com/68892277/88639615-ebd00700-d0f7-11ea-8790-3e6613375d8a.png">
 
 # Requirement
 
-必要なし
+Swift version 5.2.4 
+
+Xcord version 11.5
+
+ライブラリ必要なし
 
 # Usage
 
@@ -24,6 +28,6 @@ git clone https://github.com/Notsu74938/CalculatorApp/edit/master/README.md
 
 # Author
 
-*作成者：Takashi Notsu
-*E-mail：notty1105@icloud.com
+* 作成者：Takashi Notsu
+* E-mail：notty1105@icloud.com
 
