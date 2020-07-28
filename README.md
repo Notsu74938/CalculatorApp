@@ -10,7 +10,7 @@ iPhoneの初期アプリ「電卓」をSwiftで再現
 
 Swift version 5.2.4 
 
-Xcord version 11.5
+Xcode version 11.5
 
 ライブラリ必要なし
 
@@ -20,7 +20,7 @@ Xcord version 11.5
 ```bash
 git clone https://github.com/Notsu74938/CalculatorApp/edit/master/README.md
 ```
-2. xcordでbuildして実行
+2. Xcodeでbuildして実行
 
 # Note
 
